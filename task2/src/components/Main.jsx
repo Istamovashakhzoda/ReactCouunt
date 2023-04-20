@@ -38,12 +38,12 @@ function Main() {
         };
       };
   return (
-    // <div className="main"
-    // style={{backgroundColor: tun ? "#000" : "rgb(114, 114, 229)"}}>
-    //   <div className="header">
-    //   <div className="btn" onClick={resentClick}>
-    //     <button>Reset</button>
-    //   </div>
+    <div className="main"
+    style={{backgroundColor: tun ? "#000" : "rgb(114, 114, 229)"}}>
+      <div className="header">
+      <div className="btn" onClick={resentClick}>
+        <button>Reset</button>
+      </div>
       <div className="theme">
         <div className="themeContainer" style={{display:"flex"}}>
          {
