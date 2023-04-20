@@ -102,11 +102,11 @@
   .circle{
     margin-left: 30%;
   }
-  /* .pray img{
+  .pray img{
     width: 90px;
     height: 90px;
     margin-top: 30px;
-  } */
+  }
 }
 
 @media only screen and (max-width:1000px) {
